@@ -1,6 +1,6 @@
 # Argo CD Katas
 
-Welcome to the Argo CD Katas repository! This project is designed to help users learn and master Argo CD through practical exercises and challenges. 
+Welcome to the Argo CD Katas repository! This project is designed to help users learn and master Argo CD through practical exercises and challenges.. 
 
 Whether you are a beginner looking to understand the basics or an experienced user seeking to deepen your knowledge, these katas will guide you through various aspects of using Argo CD in a real-world context.
 
